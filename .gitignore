@@ -1,0 +1,12 @@
+.idea/
+.gradle/
+
+build/
+
+service-account.json
+
+*.class
+*.war
+*.ear
+*.aar
+*.iml
